@@ -10,4 +10,5 @@ MATLAB environment m-scripts.
 ```
 0) Simple algorithms.
 1) Pi number calculations with use of different methods.
+2) Fibonacci sequence and Pi number calculations with use of vectors calculus.
 ```
