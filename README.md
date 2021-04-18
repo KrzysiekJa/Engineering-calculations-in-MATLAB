@@ -12,4 +12,5 @@ MATLAB environment m-scripts.
 1) Pi number calculations with use of different methods.
 2) Fibonacci sequence and Pi number calculations with use of vectors calculus.
 3) Matrix operations performence. Bertnard paradox.
+4) Matlab functions performance (different functions for different problems).
 ```
