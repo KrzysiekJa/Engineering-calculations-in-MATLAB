@@ -14,6 +14,7 @@ MATLAB environment m-scripts.
 3) Matrix operations performence. Bertnard paradox.
 4) Matlab functions performance (different functions for different problems).
 5) Electrics calculations with use of structures and classes based on: [1], [2].
+6) Usage of symbolic calculations tools.
 ```
 
 
