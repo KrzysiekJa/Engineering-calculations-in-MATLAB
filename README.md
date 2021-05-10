@@ -15,6 +15,7 @@ MATLAB environment m-scripts.
 4) Matlab functions performance (different functions for different problems).
 5) Electrics calculations with use of structures and classes based on: [1], [2].
 6) Usage of symbolic calculations tools.
+7) Data and plotting (datafile is empty for some reason).
 ```
 
 
