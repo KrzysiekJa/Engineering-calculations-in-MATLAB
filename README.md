@@ -16,6 +16,8 @@ MATLAB environment m-scripts.
 5) Electrics calculations with use of structures and classes based on: [1], [2].
 6) Usage of symbolic calculations tools.
 7) Data and plotting (datafile is empty for some reason).
+8) GUI application (made in group with big contribiution of one colleague).
+9) Interpolation and aproximation methods (also NN).
 ```
 
 
