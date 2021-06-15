@@ -18,6 +18,8 @@ MATLAB environment m-scripts.
 7) Data and plotting (datafile is empty for some reason).
 8) GUI application (made in group with big contribiution of one colleague).
 9) Interpolation and aproximation methods (also NN).
+10) Optimalizations part I (geometrical task cases).
+11) Optimalizations part II (geometrical).
 ```
 
 
