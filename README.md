@@ -5,7 +5,7 @@ Laboratories aimed at solving problems in the field of algebra and mathematical 
 ```
 MATLAB environment m-scripts.
 ```
-
+ 
 ## Legend:
 ```
 0) Simple algorithms.
